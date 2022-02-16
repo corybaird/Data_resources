@@ -1,0 +1,180 @@
+CAGDP9 Real GDP by county and metropolitan area 1/,,,,,,,,,,,,,
+(thousands of chained 2012 dollars) ,,,,,,,,,,,,,
+Bureau of Economic Analysis ,,,,,,,,,,,,,
+Metropolitan Statistical Area,,,,,,,,,,,,,
+GeoFips,GeoName,LineCode,Description,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019
+40140,"Riverside-San Bernardino-Ontario, CA (Metropolitan Statistical Area)",1,All industry total,128316045,131792356,132669480,137405833,143289193,151135822,155513808,160344031,164487230,171884061
+40140,"Riverside-San Bernardino-Ontario, CA (Metropolitan Statistical Area)",2,  Private industries,104093752,107602251,108933880,113477859,118877945,126037125,129244993,134094895,138128908,145147475
+40140,"Riverside-San Bernardino-Ontario, CA (Metropolitan Statistical Area)",3,"    Agriculture, forestry, fishing and hunting",1271595,1475910,1137421,1098184,1478534,1523365,1541613,1504196,1443111,1563179
+40140,"Riverside-San Bernardino-Ontario, CA (Metropolitan Statistical Area)",6,"    Mining, quarrying, and oil and gas extraction",260022,233995,295277,281389,318575,303927,199474,219098,325079,319960
+40140,"Riverside-San Bernardino-Ontario, CA (Metropolitan Statistical Area)",10,    Utilities,2609432,2470669,3190601,2800553,2875021,2836946,2957616,2937365,2803203,2815109
+40140,"Riverside-San Bernardino-Ontario, CA (Metropolitan Statistical Area)",11,    Construction,5197434,5816011,6077507,6639280,6814233,7521235,8096527,8308743,8605911,8800524
+40140,"Riverside-San Bernardino-Ontario, CA (Metropolitan Statistical Area)",12,    Manufacturing,10558131,10903080,11631162,12141349,12148686,12601153,12459045,12416268,12798124,12819321
+40140,"Riverside-San Bernardino-Ontario, CA (Metropolitan Statistical Area)",13,      Durable goods manufacturing,6141786,6593931,6566894,6731429,6826934,7097771,7390430,7653020,7983172,7939068
+40140,"Riverside-San Bernardino-Ontario, CA (Metropolitan Statistical Area)",25,      Nondurable goods manufacturing,4422189,4300521,5064268,5409844,5322046,5503915,5077746,4779502,4833668,4898217
+40140,"Riverside-San Bernardino-Ontario, CA (Metropolitan Statistical Area)",34,    Wholesale trade,7337461,7757935,7770729,8787026,9882627,12221514,11598881,12653352,12656170,13057126
+40140,"Riverside-San Bernardino-Ontario, CA (Metropolitan Statistical Area)",35,    Retail trade,12335835,12329897,12021039,12536791,12338391,12684869,13117964,13771187,13972012,14680076
+40140,"Riverside-San Bernardino-Ontario, CA (Metropolitan Statistical Area)",36,    Transportation and warehousing,5712303,5975332,5856052,6172028,6542819,6991403,7541589,8182535,8770752,9726789
+40140,"Riverside-San Bernardino-Ontario, CA (Metropolitan Statistical Area)",45,    Information,2273354,2240341,2207651,2457190,2463317,2721991,2816038,2824408,2960587,3219352
+40140,"Riverside-San Bernardino-Ontario, CA (Metropolitan Statistical Area)",50,"    Finance, insurance, real estate, rental, and leasing",28370240,29060378,28658128,30266421,32104158,33267827,34057922,35179570,36250033,38975197
+40140,"Riverside-San Bernardino-Ontario, CA (Metropolitan Statistical Area)",51,      Finance and insurance,3585599,3835199,3826077,3672090,3793647,3756129,3639014,3696639,3494174,3338030
+40140,"Riverside-San Bernardino-Ontario, CA (Metropolitan Statistical Area)",56,      Real estate and rental and leasing,24779378,25224545,24832051,26599094,28320119,29531710,30455838,31528208,32852526,35818514
+40140,"Riverside-San Bernardino-Ontario, CA (Metropolitan Statistical Area)",59,    Professional and business services,9438358,9951180,9923767,9737797,10178104,10498941,10849554,11476857,11850235,12463566
+40140,"Riverside-San Bernardino-Ontario, CA (Metropolitan Statistical Area)",60,"      Professional, scientific, and technical services",4087931,4171702,4131884,4158078,4356484,4395901,4493197,4744185,5090324,5251407
+40140,"Riverside-San Bernardino-Ontario, CA (Metropolitan Statistical Area)",64,      Management of companies and enterprises,856748,946628,933398,999740,1025254,1070057,1097339,1085427,1099432,1260984
+40140,"Riverside-San Bernardino-Ontario, CA (Metropolitan Statistical Area)",65,      Administrative and support and waste management and remediation services,4494654,4832879,4858484,4580416,4796323,5031701,5255279,5635227,5654864,5955747
+40140,"Riverside-San Bernardino-Ontario, CA (Metropolitan Statistical Area)",68,"    Educational services, health care, and social assistance",10249256,10720314,11220124,11531757,12020371,12761631,13478896,13907557,14605632,15309834
+40140,"Riverside-San Bernardino-Ontario, CA (Metropolitan Statistical Area)",69,      Educational services,1048056,1050261,1053035,987468,1069759,1076600,1129258,1138933,1159147,1192167
+40140,"Riverside-San Bernardino-Ontario, CA (Metropolitan Statistical Area)",70,      Health care and social assistance,9202562,9670406,10167089,10545266,10950420,11687486,12352637,12773294,13454015,14127385
+40140,"Riverside-San Bernardino-Ontario, CA (Metropolitan Statistical Area)",75,"    Arts, entertainment, recreation, accommodation, and food services",4809816,4987917,5139392,5257287,5730151,6062460,6354570,6510298,6670224,6907314
+40140,"Riverside-San Bernardino-Ontario, CA (Metropolitan Statistical Area)",76,"      Arts, entertainment, and recreation",893191,909594,940823,1017312,1096821,1074003,1148423,1195975,1232582,1256225
+40140,"Riverside-San Bernardino-Ontario, CA (Metropolitan Statistical Area)",79,      Accommodation and food services,3916544,4078344,4198568,4240384,4633565,4986521,5204921,5314020,5437777,5649830
+40140,"Riverside-San Bernardino-Ontario, CA (Metropolitan Statistical Area)",82,    Other services (except government and government enterprises),3655632,3698467,3805031,3772185,3988545,4070155,4115246,4160783,4333748,4409429
+40140,"Riverside-San Bernardino-Ontario, CA (Metropolitan Statistical Area)",83,Government and government enterprises,24218263,24188794,23735599,23932470,24425802,25130727,26290649,26288991,26413130,26816650
+40140,"Riverside-San Bernardino-Ontario, CA (Metropolitan Statistical Area)",,Addenda:,,,,,,,,,,
+40140,"Riverside-San Bernardino-Ontario, CA (Metropolitan Statistical Area)",87,Natural resources and mining,1535286,1707319,1432697,1379742,1802314,1833548,1743203,1727927,1790541,1900704
+40140,"Riverside-San Bernardino-Ontario, CA (Metropolitan Statistical Area)",88,Trade,19674082,20087725,19791768,21325096,22226354,24917686,24723720,26437120,26636638,27735638
+40140,"Riverside-San Bernardino-Ontario, CA (Metropolitan Statistical Area)",89,Transportation and utilities,8319461,8429550,9046653,8969062,9410778,9810898,10479573,11100256,11554726,12521797
+40140,"Riverside-San Bernardino-Ontario, CA (Metropolitan Statistical Area)",90,Manufacturing and information,12838115,13146160,13838814,14597609,14610945,15311447,15250496,15213786,15723590,15961801
+40140,"Riverside-San Bernardino-Ontario, CA (Metropolitan Statistical Area)",91,Private goods-producing industries 2/,17296490,18429339,19141367,20163170,20750273,21973433,22389175,22569958,23317209,23634443
+40140,"Riverside-San Bernardino-Ontario, CA (Metropolitan Statistical Area)",92,Private services-providing industries 3/,86785752,89170354,89792514,93314366,98130327,104066812,106860623,111537215,114823737,121531132
+40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",1,All industry total,101991632,103745146,104794885,108140212,111615293,116822759,119486229,123124799,127055984,132501716
+40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",2,  Private industries,76599948,77528377,79052156,81776591,84423619,89256380,92059964,95795208,99700940,104616899
+40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",3,"    Agriculture, forestry, fishing and hunting",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",6,"    Mining, quarrying, and oil and gas extraction",119047,93094,86135,88797,105892,103386,96679,100686,118154,119221
+40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",10,    Utilities,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",11,    Construction,3915345,3727564,3793955,4186597,4350363,4918675,5269753,5586132,6076450,6720817
+40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",12,    Manufacturing,5686913,5923034,6328789,6074125,5985663,6295375,6025920,5615325,5758500,5819515
+40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",13,      Durable goods manufacturing,4129402,4456718,4743890,4448884,4231221,4193981,3801087,3679781,3747565,3823586
+40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",25,      Nondurable goods manufacturing,1568380,1465857,1584899,1624718,1750899,2088071,2205852,1922270,1996322,1982441
+40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",34,    Wholesale trade,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",35,    Retail trade,6414969,6444219,6480856,6794610,6800519,7085631,7374260,7770392,7873919,8200732
+40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",36,    Transportation and warehousing,2428302,2237144,2213066,2263851,(D),(D),2439332,2521668,2723272,2958398
+40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",45,    Information,3210382,3250348,3285571,3276817,2964266,3207092,3225075,3575369,3877897,4095245
+40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",50,"    Finance, insurance, real estate, rental, and leasing",22337717,22190596,22192542,23557512,24778673,25998757,26292728,27684899,28947044,30358534
+40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",51,      Finance and insurance,5993691,5695389,5780073,5767886,6169636,6475459,6013349,6259603,6117164,5996051
+40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",56,      Real estate and rental and leasing,16349756,16494047,16412469,17793012,18609453,19523633,20304045,21455462,22897553,24473350
+40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",59,    Professional and business services,12033563,12364655,12591492,12590054,13254830,13519663,14325317,14889807,15458116,16132869
+40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",60,"      Professional, scientific, and technical services",7755857,7987304,7977185,7777443,8098590,8251668,8470896,8626557,9009444,9511498
+40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",64,      Management of companies and enterprises,1399945,1401313,1386300,1552538,1609414,1670780,1810231,2001208,2055090,2235151
+40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",65,      Administrative and support and waste management and remediation services,2877771,2976173,3228007,3260541,3545700,3597494,4037109,4257579,4389032,4401560
+40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",68,"    Educational services, health care, and social assistance",8939550,9363467,9748813,9979191,10196826,10898331,11242557,11638133,12195834,12969872
+40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",69,      Educational services,904006,930873,916852,819083,813329,820251,791804,807875,802758,844924
+40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",70,      Health care and social assistance,8036291,8433001,8831961,9161349,9385475,10082428,10458155,10838660,11405161,12138543
+40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",75,"    Arts, entertainment, recreation, accommodation, and food services",3003719,3031451,3196759,3361051,3601116,3880852,4068890,4291868,4373637,4546691
+40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",76,"      Arts, entertainment, and recreation",673065,649244,764074,770571,793763,845572,883603,987961,976552,1021103
+40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",79,      Accommodation and food services,2330869,2382679,2432685,2590234,2806535,3034150,3183999,3305261,3396636,3525532
+40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",82,    Other services (except government and government enterprises),2507790,2469799,2463058,2453053,2550786,2549923,2574472,2630988,2749343,2804946
+40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",83,Government and government enterprises,25391087,26217133,25742729,26365597,27194174,27601080,27491099,27428543,27489960,28054251
+40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",,Addenda:,,,,,,,,,,
+40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",87,Natural resources and mining,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",88,Trade,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",89,Transportation and utilities,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",90,Manufacturing and information,8899026,9174407,9614360,9350765,8952309,9501990,9242186,9142366,9569122,9830252
+40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",91,Private goods-producing industries 2/,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",92,Private services-providing industries 3/,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+41620,"Salt Lake City, UT (Metropolitan Statistical Area)",1,All industry total,64807283,67666834,69285847,70426257,72476710,75298619,78243444,80547958,85198816,88155402
+41620,"Salt Lake City, UT (Metropolitan Statistical Area)",2,  Private industries,56681283,59368004,61155438,62385493,64270561,67019650,69607849,71605976,76065332,78831221
+41620,"Salt Lake City, UT (Metropolitan Statistical Area)",3,"    Agriculture, forestry, fishing and hunting",26193,26952,17256,16545,12353,49865,(D),30599,43221,24571
+41620,"Salt Lake City, UT (Metropolitan Statistical Area)",6,"    Mining, quarrying, and oil and gas extraction",1413431,1448837,1258265,1194439,1308679,936142,895687,921042,1000050,1071069
+41620,"Salt Lake City, UT (Metropolitan Statistical Area)",10,    Utilities,(D),(D),235925,(D),239957,268951,268555,324057,424952,456820
+41620,"Salt Lake City, UT (Metropolitan Statistical Area)",11,    Construction,2808640,2901608,3162795,3186700,3406630,3713891,3823094,3873269,4294097,4533979
+41620,"Salt Lake City, UT (Metropolitan Statistical Area)",12,    Manufacturing,8941957,9243692,7953800,7994494,8003299,8277339,7964560,8232589,8522161,8702361
+41620,"Salt Lake City, UT (Metropolitan Statistical Area)",13,      Durable goods manufacturing,5600750,5913206,5388033,5079117,4875467,5215850,4990723,5187983,5333337,5466618
+41620,"Salt Lake City, UT (Metropolitan Statistical Area)",25,      Nondurable goods manufacturing,3368160,3341608,2565767,2915453,3135566,3061781,2975707,3044313,3188921,3235548
+41620,"Salt Lake City, UT (Metropolitan Statistical Area)",34,    Wholesale trade,(D),(D),4588008,(D),4823081,4995156,5231779,5393282,5388005,5297005
+41620,"Salt Lake City, UT (Metropolitan Statistical Area)",35,    Retail trade,4492916,4684473,5119721,5082506,4934104,5045334,5568242,5854382,6058632,6296076
+41620,"Salt Lake City, UT (Metropolitan Statistical Area)",36,    Transportation and warehousing,2800299,2948324,2934574,2993779,3009198,3308094,3517838,3640645,3776060,3934957
+41620,"Salt Lake City, UT (Metropolitan Statistical Area)",45,    Information,2507745,2527199,(D),2797711,3019145,3487160,(D),4535152,4882171,5567630
+41620,"Salt Lake City, UT (Metropolitan Statistical Area)",50,"    Finance, insurance, real estate, rental, and leasing",13970006,15344040,17005398,16777829,17413520,18266107,18821546,18745119,20322926,20602457
+41620,"Salt Lake City, UT (Metropolitan Statistical Area)",51,      Finance and insurance,6814460,7813239,8985734,8548299,8947463,9353148,9079090,8528537,9069315,9170610
+41620,"Salt Lake City, UT (Metropolitan Statistical Area)",56,      Real estate and rental and leasing,7139697,7525502,8019664,8235319,8467977,8917645,9821285,10392216,11489282,11677906
+41620,"Salt Lake City, UT (Metropolitan Statistical Area)",59,    Professional and business services,7666060,7955879,8514157,9264310,9849774,10008723,10364453,10752157,11581719,12390085
+41620,"Salt Lake City, UT (Metropolitan Statistical Area)",60,"      Professional, scientific, and technical services",(D),(D),(D),(D),(D),(D),(D),(D),(D),7519881
+41620,"Salt Lake City, UT (Metropolitan Statistical Area)",64,      Management of companies and enterprises,(D),(D),(D),(D),(D),(D),(D),(D),(D),1911815
+41620,"Salt Lake City, UT (Metropolitan Statistical Area)",65,      Administrative and support and waste management and remediation services,2001756,2104185,2222238,2369942,2493055,2527631,2639273,2810024,2841608,2963466
+41620,"Salt Lake City, UT (Metropolitan Statistical Area)",68,"    Educational services, health care, and social assistance",4118571,4269951,4351545,4565392,4527607,4741550,5051074,5160846,5335848,5570452
+41620,"Salt Lake City, UT (Metropolitan Statistical Area)",69,      Educational services,676531,715179,718484,746136,733247,775623,840356,848808,902609,1019638
+41620,"Salt Lake City, UT (Metropolitan Statistical Area)",70,      Health care and social assistance,3441806,3554856,3633061,3819337,3794649,3965871,4209875,4311808,4431088,4542030
+41620,"Salt Lake City, UT (Metropolitan Statistical Area)",75,"    Arts, entertainment, recreation, accommodation, and food services",1737394,1786705,1843918,1869391,1918646,2014448,2112991,2299013,2439503,2515208
+41620,"Salt Lake City, UT (Metropolitan Statistical Area)",76,"      Arts, entertainment, and recreation",429337,424494,448062,457311,460079,477723,547130,621297,657706,674716
+41620,"Salt Lake City, UT (Metropolitan Statistical Area)",79,      Accommodation and food services,1307848,1362300,1395855,1412101,1458434,1536460,1567036,1680054,1784195,1842744
+41620,"Salt Lake City, UT (Metropolitan Statistical Area)",82,    Other services (except government and government enterprises),1583933,1592036,(D),1719977,1801681,1822919,(D),1876788,1928627,1971316
+41620,"Salt Lake City, UT (Metropolitan Statistical Area)",83,Government and government enterprises,8123482,8297772,8130409,8042505,8209403,8289899,8646073,8951673,9150099,9344083
+41620,"Salt Lake City, UT (Metropolitan Statistical Area)",,Addenda:,,,,,,,,,,
+41620,"Salt Lake City, UT (Metropolitan Statistical Area)",87,Natural resources and mining,1439510,1475673,1275521,1210994,1320566,988264,(D),954594,1045320,1101126
+41620,"Salt Lake City, UT (Metropolitan Statistical Area)",88,Trade,(D),(D),9707729,(D),9758196,10041710,10800166,11246684,11441197,11574384
+41620,"Salt Lake City, UT (Metropolitan Statistical Area)",89,Transportation and utilities,(D),(D),3170499,(D),3248933,3576931,3786714,3963377,4197897,4388237
+41620,"Salt Lake City, UT (Metropolitan Statistical Area)",90,Manufacturing and information,11450384,11769232,(D),10793587,11026295,11769200,(D),12760300,13387261,14215744
+41620,"Salt Lake City, UT (Metropolitan Statistical Area)",91,Private goods-producing industries 2/,13194686,13625582,12392116,12394600,12740538,13060020,(D),13172110,14021096,14526439
+41620,"Salt Lake City, UT (Metropolitan Statistical Area)",92,Private services-providing industries 3/,43476358,45731507,48763322,49986994,51525058,53944228,(D),58364095,61972023,64229636
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",1,All industry total,337490277,339658529,366308515,381121690,406459737,431327205,457517341,491152028,511920423,531247412
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",2,  Private industries,303223971,305255781,332087598,346168357,370665111,394473607,419444879,452820782,473579242,492499279
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",3,"    Agriculture, forestry, fishing and hunting",(D),(D),(D),262817,(D),(D),(D),(D),(D),(D)
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",6,"    Mining, quarrying, and oil and gas extraction",476505,479541,608103,530759,324538,604265,653280,311141,314472,254270
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",10,    Utilities,3064875,3102285,3574876,3902817,3840328,4041307,3899038,3757818,4040253,3968327
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",11,    Construction,10896415,11132648,11299973,12457586,12891594,14063232,14849408,15872599,16909065,16537730
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",12,    Manufacturing,48679241,37932349,39361745,43121406,47858468,49389848,54422196,61405306,63297366,65572884
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",13,      Durable goods manufacturing,11760601,12409614,14230217,14780751,15047789,16441094,17721598,19918002,20955774,21599960
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",25,      Nondurable goods manufacturing,38010105,25580594,25131528,28369368,32927352,32998559,36811827,41619790,42466416,44103263
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",34,    Wholesale trade,14984387,15989535,16180881,17230250,19145501,21359901,21078673,22178693,21165923,21064141
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",35,    Retail trade,17363097,17215302,17881713,18377020,19213066,20454836,20704919,21311993,21481761,22231289
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",36,    Transportation and warehousing,(D),(D),(D),9937565,(D),(D),(D),(D),(D),(D)
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",45,    Information,21917918,23577548,25517625,35356225,38078970,44613200,55044861,69150012,78034796,81620946
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",50,"    Finance, insurance, real estate, rental, and leasing",71979214,73984170,80960282,81566223,86653251,88364473,91747183,97721780,99329439,99818337
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",51,      Finance and insurance,24428133,24414852,28421702,26267869,28668345,28691876,29573404,32743106,31311877,31538268
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",56,      Real estate and rental and leasing,47552797,49542129,52538581,55346307,57982860,59725348,62254249,64882191,68302615,68550289
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",59,    Professional and business services,60991898,66777342,80452260,75617928,81935378,87651762,90250521,94209910,101134369,106252408
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",60,"      Professional, scientific, and technical services",44035665,48623953,61640038,54496301,59749242,64538291,66983788,69490810,75220955,80352993
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",64,      Management of companies and enterprises,7321477,8169685,8334464,10357239,10779986,11436894,11188422,11796359,12314591,12483353
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",65,      Administrative and support and waste management and remediation services,9641484,9990734,10477758,10759918,11399683,11684632,12070706,12895480,13575666,13439888
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",68,"    Educational services, health care, and social assistance",24972519,25039096,25684266,26445223,27392096,29057691,30093444,30191130,31024738,32521175
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",69,      Educational services,3761000,3861743,3895251,4030700,4311734,4463308,4617697,4618194,4568906,4898033
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",70,      Health care and social assistance,21209906,21177893,21789015,22414307,23076026,24594892,25476516,25574655,26471121,27629846
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",75,"    Arts, entertainment, recreation, accommodation, and food services",13041219,13914000,14298773,14623212,15691623,16774482,17230962,17422046,17734685,19089132
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",76,"      Arts, entertainment, and recreation",4308135,4462942,4722213,4612304,4852762,5025306,5174354,4944127,4999162,5123846
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",79,      Accommodation and food services,8731885,9452340,9576560,10009357,10835592,11741892,12049514,12459069,12714594,13926252
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",82,    Other services (except government and government enterprises),6643761,6660440,6595113,6852366,7143780,7314212,7416290,7473875,7946662,8045625
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",83,Government and government enterprises,34259259,34398916,34220917,34961170,35847783,36959713,38238350,38641911,38755681,39248136
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",,Addenda:,,,,,,,,,,
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",87,Natural resources and mining,(D),(D),(D),793811,(D),(D),(D),(D),(D),(D)
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",88,Trade,32349707,33204996,34062594,35608323,38362833,41821762,41788367,43500609,42631781,43244485
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",89,Transportation and utilities,(D),(D),(D),13840736,(D),(D),(D),(D),(D),(D)
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",90,Manufacturing and information,69964148,61496916,64879370,78580177,86022380,94214847,109865465,131127435,141839991,147703695
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",91,Private goods-producing industries 2/,(D),(D),(D),56364637,(D),(D),(D),(D),(D),(D)
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",92,Private services-providing industries 3/,(D),(D),(D),289861357,(D),(D),(D),(D),(D),(D)
+42020,"San Luis Obispo-Paso Robles, CA (Metropolitan Statistical Area)",1,All industry total,13071951,13373144,13751028,14249445,14505249,15358431,15632220,15842274,16352453,16660813
+42020,"San Luis Obispo-Paso Robles, CA (Metropolitan Statistical Area)",2,  Private industries,11294857,11528917,11914329,12412836,12660923,13457910,13662988,13872488,14391502,14712233
+42020,"San Luis Obispo-Paso Robles, CA (Metropolitan Statistical Area)",3,"    Agriculture, forestry, fishing and hunting",(D),(D),(D),(D),623926,743219,777583,671571,712943,(D)
+42020,"San Luis Obispo-Paso Robles, CA (Metropolitan Statistical Area)",6,"    Mining, quarrying, and oil and gas extraction",97431,43321,48753,45774,49451,50451,47116,50443,48131,43258
+42020,"San Luis Obispo-Paso Robles, CA (Metropolitan Statistical Area)",10,    Utilities,2143273,2265521,2234065,2350485,2263546,2520883,2688355,2532913,2652515,2458814
+42020,"San Luis Obispo-Paso Robles, CA (Metropolitan Statistical Area)",11,    Construction,653875,644024,642257,661980,660862,697999,793368,821491,854049,885314
+42020,"San Luis Obispo-Paso Robles, CA (Metropolitan Statistical Area)",12,    Manufacturing,704178,735110,821124,885005,888188,886401,856214,892350,967786,989017
+42020,"San Luis Obispo-Paso Robles, CA (Metropolitan Statistical Area)",13,      Durable goods manufacturing,307991,348770,362692,391620,366988,367726,357703,373418,409008,399141
+42020,"San Luis Obispo-Paso Robles, CA (Metropolitan Statistical Area)",25,      Nondurable goods manufacturing,397851,385874,458432,493376,522391,519785,499393,519806,559472,592231
+42020,"San Luis Obispo-Paso Robles, CA (Metropolitan Statistical Area)",34,    Wholesale trade,371195,401304,393827,396496,415646,433298,390566,377161,359772,359633
+42020,"San Luis Obispo-Paso Robles, CA (Metropolitan Statistical Area)",35,    Retail trade,945195,966479,982367,1024146,1037067,1081413,1093609,1149772,1191503,1236524
+42020,"San Luis Obispo-Paso Robles, CA (Metropolitan Statistical Area)",36,    Transportation and warehousing,(D),(D),(D),(D),124863,124945,131908,135675,132539,(D)
+42020,"San Luis Obispo-Paso Robles, CA (Metropolitan Statistical Area)",45,    Information,175930,207873,261564,319101,327611,363146,359046,390112,446485,495299
+42020,"San Luis Obispo-Paso Robles, CA (Metropolitan Statistical Area)",50,"    Finance, insurance, real estate, rental, and leasing",2654915,2772705,2824192,2924556,3072189,3191164,3174204,3331045,3383317,3566535
+42020,"San Luis Obispo-Paso Robles, CA (Metropolitan Statistical Area)",51,      Finance and insurance,360360,386996,387647,362345,373102,362946,344337,368256,356083,343488
+42020,"San Luis Obispo-Paso Robles, CA (Metropolitan Statistical Area)",56,      Real estate and rental and leasing,2294285,2385823,2436545,2562950,2700361,2831630,2835290,2967303,3036047,3241211
+42020,"San Luis Obispo-Paso Robles, CA (Metropolitan Statistical Area)",59,    Professional and business services,1027613,1052637,1045175,1067336,1130071,1206990,1181310,1276730,1354416,1473974
+42020,"San Luis Obispo-Paso Robles, CA (Metropolitan Statistical Area)",60,"      Professional, scientific, and technical services",590073,598581,575740,578109,633920,705180,730842,802012,857477,951880
+42020,"San Luis Obispo-Paso Robles, CA (Metropolitan Statistical Area)",64,      Management of companies and enterprises,128264,136992,137362,160228,150300,145500,153871,162039,178517,184716
+42020,"San Luis Obispo-Paso Robles, CA (Metropolitan Statistical Area)",65,      Administrative and support and waste management and remediation services,309337,317085,332074,329075,345541,355710,298474,314931,322053,341102
+42020,"San Luis Obispo-Paso Robles, CA (Metropolitan Statistical Area)",68,"    Educational services, health care, and social assistance",944361,983990,977675,1015979,1013500,1031431,1026575,1067439,1151210,1195235
+42020,"San Luis Obispo-Paso Robles, CA (Metropolitan Statistical Area)",69,      Educational services,37400,40622,39966,43008,47504,47820,52616,53673,93366,95744
+42020,"San Luis Obispo-Paso Robles, CA (Metropolitan Statistical Area)",70,      Health care and social assistance,906926,943371,937709,972956,965837,983474,973541,1013397,1054727,1096357
+42020,"San Luis Obispo-Paso Robles, CA (Metropolitan Statistical Area)",75,"    Arts, entertainment, recreation, accommodation, and food services",570945,585607,607183,658197,733654,799029,799149,802547,798922,824452
+42020,"San Luis Obispo-Paso Robles, CA (Metropolitan Statistical Area)",76,"      Arts, entertainment, and recreation",79967,82399,74025,75939,83208,88906,86737,88091,93436,95940
+42020,"San Luis Obispo-Paso Robles, CA (Metropolitan Statistical Area)",79,      Accommodation and food services,490909,503131,533158,582228,650387,710017,712239,714323,705665,728666
+42020,"San Luis Obispo-Paso Robles, CA (Metropolitan Statistical Area)",82,    Other services (except government and government enterprises),341553,327795,318713,311413,326056,336918,343201,340693,326416,327189
+42020,"San Luis Obispo-Paso Robles, CA (Metropolitan Statistical Area)",83,Government and government enterprises,1777114,1844483,1836699,1837186,1845392,1903246,1970457,1972201,1966803,1957118
+42020,"San Luis Obispo-Paso Robles, CA (Metropolitan Statistical Area)",,Addenda:,,,,,,,,,,
+42020,"San Luis Obispo-Paso Robles, CA (Metropolitan Statistical Area)",87,Natural resources and mining,(D),(D),(D),(D),673467,794768,827194,722399,761779,(D)
+42020,"San Luis Obispo-Paso Robles, CA (Metropolitan Statistical Area)",88,Trade,1316449,1367792,1376194,1420619,1452740,1514746,1483932,1526169,1549461,1593403
+42020,"San Luis Obispo-Paso Robles, CA (Metropolitan Statistical Area)",89,Transportation and utilities,(D),(D),(D),(D),2388422,2646221,2820626,2669394,2785615,(D)
+42020,"San Luis Obispo-Paso Robles, CA (Metropolitan Statistical Area)",90,Manufacturing and information,878322,942433,1082688,1204201,1215884,1248678,1213988,1280024,1409570,1475604
+42020,"San Luis Obispo-Paso Robles, CA (Metropolitan Statistical Area)",91,Private goods-producing industries 2/,(D),(D),(D),(D),2221591,2366841,2473180,2467189,2614043,(D)
+42020,"San Luis Obispo-Paso Robles, CA (Metropolitan Statistical Area)",92,Private services-providing industries 3/,(D),(D),(D),(D),10438606,11090509,11195245,11406920,11783851,(D)
